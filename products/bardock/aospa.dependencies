@@ -1,0 +1,63 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "PA8953/android_device_bq_bardock",
+        "target_path":  "device/bq/bardock",
+        "revision":     "topaz"
+    },
+    {
+        "remote":       "github",
+        "repository":   "PA8953/android_device_bq_msm8953-common",
+        "target_path":  "device/bq/msm8953-common",
+        "revision":     "topaz"
+    },
+    {
+        "remote":       "github",
+        "repository":   "PA8953/android_kernel_bq_msm8953",
+        "target_path":  "kernel/bq/msm8953",
+        "revision":     "topaz"
+    },
+    {
+        "remote":       "github",
+        "repository":   "PA8953/vendor_bq_bardock",
+        "target_path":  "vendor/bq/bardock",
+        "revision":     "topaz"
+    },
+    {
+        "remote":       "github",
+        "repository":   "PA8953/vendor_bq_msm8953-common",
+        "target_path":  "vendor/bq/msm8953-common",
+        "revision":     "topaz"
+    },
+    {
+        "remote":       "blobs-gitlab",
+        "repository":   "android_prebuilts_clang-standalone",
+        "target_path":  "prebuilts/clang-standalone",
+        "revision":     "15",
+        "clone-depth":  "1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "PA8953/android_hardware_qcom_audio",
+        "target_path":  "vendor/qcom/opensource/audio-hal/primary-hal",
+        "revision":     "topaz-8996"
+    },
+    {
+        "remote":       "github",
+        "repository":   "PA8953/android_hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "topaz-8996"
+    },
+    {
+        "remote":       "github",
+        "repository":   "PA8953/android_hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "topaz-8996"
+    },
+    {
+        "remote":       "github",
+        "repository":   "PA8953/android_hardware_qcom_wlan",
+        "target_path":  "hardware/qcom/wlan",
+        "revision":     "LA.VENDOR.1.0.r1-20500-WAIPIO.QSSI13.0"
+    }
+]
